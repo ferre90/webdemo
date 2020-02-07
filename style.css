@@ -1,0 +1,89 @@
+body {
+	margin: 0px;
+}
+
+div {
+height:200px;
+background-color:pink;
+width:45%;
+float:left;
+}
+
+.navigation {
+	height:100px;
+	width:100%;
+	background-image: linear-gradient(-90deg,#ff6781,#ffe9f4);
+	margin-bottom:5px;
+}
+
+.heroimage {
+	height:200px;
+	width:100%;
+	background-color:red;
+	margin-bottom:5px;
+}
+
+.aboutus {
+	height:300px;
+	width:70%;
+	float: left;
+	background-image: linear-gradient(-90deg, green, yellow);
+	margin-bottom:5px;
+}
+
+.social {
+	height:300px;
+	width:29.5%;
+	float:right;
+	background-color:green;
+	margin-bottom:5px;
+}
+
+.casestudy1 {
+	height:300px;
+	width:100%;
+	background-color:yellow;
+	margin-bottom:5px;	
+}
+
+.who {
+	height:100px;
+	width:33%;
+	float:left;
+	background-color:grey;
+	margin-bottom:5px;	
+
+}
+
+.what {
+	height:100px;
+	width:33%;
+	float:left;	
+	background-color:green;
+	margin-left: 6px;
+	margin-bottom:5px;	
+}
+
+.join {
+	height:100px;
+	width:33%;
+	float:right;	
+	background-color:gold;
+	margin-bottom:5px;	
+}
+
+
+.casestudy2{
+	height:200px;
+	width:100%;
+	background-image: linear-gradient(-90deg, red, yellow);
+
+
+}
+h1 {
+	color:black;
+	text-align: center;
+	clear:both;
+	font-family:sans-serif;
+}
+
